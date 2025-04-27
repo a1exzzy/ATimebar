@@ -1,7 +1,7 @@
 # ATimebar
 🧠✨ 希望帮助 ADHD 及时间感知困难的朋友，感受时间流动。
 
----
+
 
 ## ✨ 功能特色
 
@@ -14,14 +14,14 @@
 - 右键菜单可快速切换模式、打开设置界面或关闭程序。
 - 所有设置自动本地保存，重启后仍然保留。
 
----
+
 
 ## 🛠 安装与使用
 
 - 在页面下载最新版本的 `.exe` 安装包。
 - 双击 `.exe` 文件运行，无需安装。
 
----
+
 
 ## 🚀 快速上手
 
@@ -37,7 +37,7 @@
 - **固定到任务栏（推荐）**：
   - 建议将 ATimebar 固定到任务栏，方便随时查看。
 
----
+
 
 ## 📋 更新日志
 
@@ -51,7 +51,7 @@
 
 🧠✨ Helping ADHD and time-blind friends feel the flow of time.
 
----
+
 
 ## ✨ Features
 
@@ -64,14 +64,14 @@
 - Quick right-click menu to switch mode, open settings, or close app.
 - All settings are saved locally and persist after reboot.
 
----
+
 
 ## 🛠 Installation and Usage
 
 - Download the latest `.exe` installer from this page.
 - Double-click the `.exe` file to run — no installation required.
 
----
+
 
 ## 🚀 Quick Start
 
@@ -87,7 +87,7 @@
 - **Taskbar Pinning (Recommended)**:
   - It is recommended to pin ATimebar to the taskbar for quick access.
 
----
+
 
 ## 📋 Changelog
 
