@@ -1,6 +1,12 @@
 # ATimebar
 🧠✨ 希望帮助 ADHD 及时间感知困难的朋友，感受时间流动。
 
+## 下载方式
+点击右侧Release
+![b75702eb138d1cda90e8fd0169c92a6](https://github.com/user-attachments/assets/f11f0f82-2ba3-4df5-8c92-ad08b96f2d4f)
+下拉点击安装包下载
+![5f330103ee79655d8ad58d410ef3ad2](https://github.com/user-attachments/assets/ec411e3b-e3a2-49c7-bbba-a176adc6bba8)
+
 
 
 ## ✨ 功能特色
