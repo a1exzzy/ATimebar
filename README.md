@@ -3,11 +3,7 @@
 
 ## 下载方式
 点击右侧Release
-![b75702eb138d1cda90e8fd0169c92a6](https://github.com/user-attachments/assets/f11f0f82-2ba3-4df5-8c92-ad08b96f2d4f)
-下拉点击安装包下载
-![5f330103ee79655d8ad58d410ef3ad2](https://github.com/user-attachments/assets/ec411e3b-e3a2-49c7-bbba-a176adc6bba8)
-
-
+下拉点击安装包atimebar-0.1.0.exe下载
 
 ## ✨ 功能特色
 
